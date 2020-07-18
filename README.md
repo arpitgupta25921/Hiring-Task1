@@ -37,7 +37,23 @@
   }).listen(8080);
   
   
-  run these commands like:- 
+  Run these commands like:- 
   
   
   node arpit_hiring.js
+  when you run this command open a webpage in the url type http://localhost:8080/ and then you will se a web page in which you have to enter 
+  
+  Name 
+  
+  Email 
+  
+  Resume upload
+  
+  Position Applied 
+  
+  Highest Qualification 
+  
+  and after filling these field just see in the MongodbCompass Community where you will se the database 
+  
+  
+  
